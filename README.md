@@ -28,3 +28,7 @@ Though rural cities do not make up a large portion of total fares, drivers in th
 ### Recommendation Two 
 
 Relatedly, a second recommendation would be to market and advertise more for riders in rural areas, particularly for sporting events or concerts in neighboring suburban or urban areas. There is high potential to grow the business in rural areas. 
+
+### Recommendation Three 
+
+Finally, a third recommendation is to make similar outreach efforts in suburban areas, as there is also room in these cities to grow the business. Urban cities do appear to be fairly saturated with drivers and riders, and there may be less room for distinction and growth in these city types.
